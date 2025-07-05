@@ -1,5 +1,12 @@
 # PillKit
 
+[![SwiftPM Compatible](https://img.shields.io/badge/SwiftPM-Compatible-orange?logo=swift)](https://swift.org/package-manager/)
+![iOS](https://img.shields.io/badge/iOS-18%2B-blue)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-purple?logo=swift)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Latest Release](https://img.shields.io/github/v/release/ceviixx/PillKit)](https://github.com/ceviixx/PillKit/releases)
+![Release Date](https://img.shields.io/github/release-date/ceviixx/PillKit)
+
 **PillKit** is a lightweight SwiftUI overlay banner inspired by native iOS system indicators – like the floating notification you see when **connecting AirPods**, **toggling the mute switch**, or **activating a Focus mode**.
 
 Apple doesn’t provide any public API to recreate this behavior, so **PillKit** gives you an easy way to implement a similar experience with animation, drag-to-dismiss, and haptic feedback. Fully usable from anywhere – even outside SwiftUI views.
